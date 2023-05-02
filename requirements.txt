@@ -1,0 +1,11 @@
+# Install necessary packages
+# einops is required for some einsum operations
+# ray[tune] is used for hyperparameter tuning/searching
+
+
+einops
+torchaudio
+
+librosa 
+scipy 
+matplotlib
